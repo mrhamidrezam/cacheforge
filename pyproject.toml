@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "cacheforge"
+name = "pycacheforge"
 version = "0.1.0"
 description = "Lightweight, zero-dependency caching, tiered storage, and cache stampede protection toolkit for Python."
 readme = "README.md"
